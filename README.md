@@ -1,7 +1,7 @@
 # TEnLOcRAFT's BetterDiscord theme
 TEnLOcRAFT's theme for BD - Officinal Release!
 
-> How to Download
+> How to Download <
 ''' Click *Code* button and then choose *Download ZIP*,
     Extract the folder and drag the *CSS* file to *BetterDiscord's Theme* folder.
     __MAKE SURE BETTERDISCORD INSTALLED!__
