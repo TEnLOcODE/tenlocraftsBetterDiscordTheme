@@ -3,6 +3,7 @@ TEnLOcRAFT's theme for BD - Officinal Release!
 
 > Downloading And Installing
 
+###### __Click [Here](https://github.com/TEnLOcODE/tenlocraftsBetterDiscordTheme/) First!__
 ###### Click *Code* button and then choose *Download ZIP*,
 ###### Extract the folder and drag the *CSS* file to *BetterDiscord's Theme* folder.
 ###### __MAKE SURE BETTERDISCORD INSTALLED!__
