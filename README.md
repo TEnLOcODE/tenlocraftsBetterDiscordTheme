@@ -18,3 +18,8 @@ TEnLOcRAFT's theme for BD - Officinal Release!
 ## Support me :)
 
 __Coming Soon__
+
+> COPYRIGHT
+
+###### This repository on the MOZILLA PUBLIC LICENSE 2.0
+###### [View File](https://github.com/TEnLOcODE/s/blob/main/LICENSE/)
